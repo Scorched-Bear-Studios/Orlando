@@ -7,7 +7,7 @@ using Microsoft.Xna.Framework.Input;
 
 namespace Orlando
 {
-    class Arrow 
+    class Arrow
     {
         public static List<Arrow> arrows = new List<Arrow>();
         private Vector2 position;
@@ -23,8 +23,8 @@ namespace Orlando
             this.position = position;
             this.direction = direction;
             this.arrow = sprite;
-           
-            
+
+
         }
 
         public Arrow(Vector2 position, Dir direction)
@@ -52,13 +52,13 @@ namespace Orlando
             set { collided = value; }
         }
 
-        
+
 
         public void Update(GameTime gameTime)
         {
             float dt = (float)gameTime.ElapsedGameTime.TotalSeconds;
 
- 
+
             switch (direction)
             {
                 case Dir.Right:
@@ -84,13 +84,13 @@ namespace Orlando
 
         public void Draw(SpriteBatch spriteBatch)
         {
-            
+
             foreach (Arrow arr in Arrow.arrows)
             {
                 float angle = MathHelper.ToRadians(m_movementAngle);
 
 
-                spriteBatch.Draw(arrow, new Vector2(arr.Position.X - 50, arr.Position.Y - 50),null, Color.White, MathHelper.PiOver2, new Vector2(arrow.Width/2, arrow.Height/2), angle, SpriteEffects.None, 0);
+                spriteBatch.Draw(arrow, new Vector2(arr.Position.X - 50, arr.Position.Y - 50), null, Color.White, MathHelper.PiOver2, new Vector2(arrow.Width / 2, arrow.Height / 2), angle, SpriteEffects.None, 0);
             }
         }
 

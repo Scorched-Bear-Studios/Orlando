@@ -4,14 +4,18 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/eccec/OneDrive/Desktop/Westminster/Year 1/Orlando/Orlando/Content/arrow.png</File>
-    <File>C:/Users/eccec/OneDrive/Desktop/Westminster/Year 1/Orlando/Orlando/Content/Player/orlando.png</File>
-    <File>C:/Users/eccec/OneDrive/Desktop/Westminster/Year 1/Orlando/Orlando/Content/Player/owalkd.png</File>
-    <File>C:/Users/eccec/OneDrive/Desktop/Westminster/Year 1/Orlando/Orlando/Content/Player/owalkl.png</File>
-    <File>C:/Users/eccec/OneDrive/Desktop/Westminster/Year 1/Orlando/Orlando/Content/Player/owalkr.png</File>
-    <File>C:/Users/eccec/OneDrive/Desktop/Westminster/Year 1/Orlando/Orlando/Content/Player/owalku.png</File>
+    <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Assets/levelone.png</File>
+    <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Enemy/skeleton.png</File>
+    <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Player/arrow.png</File>
+    <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Player/arrow2.png</File>
+    <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Player/owalkl.png</File>
+    <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Player/owalkr.png</File>
+    <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Player/owalku.png</File>
+    <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Player/owlakd.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

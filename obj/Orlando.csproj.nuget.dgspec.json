@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eccec\\OneDrive\\Desktop\\Westminster\\Year 1\\Orlando\\Orlando\\Orlando.csproj": {}
+    "C:\\Users\\eccec\\OneDrive\\Desktop\\ORLANDO\\Orlando\\Orlando\\Orlando.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eccec\\OneDrive\\Desktop\\Westminster\\Year 1\\Orlando\\Orlando\\Orlando.csproj": {
+    "C:\\Users\\eccec\\OneDrive\\Desktop\\ORLANDO\\Orlando\\Orlando\\Orlando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eccec\\OneDrive\\Desktop\\Westminster\\Year 1\\Orlando\\Orlando\\Orlando.csproj",
+        "projectUniqueName": "C:\\Users\\eccec\\OneDrive\\Desktop\\ORLANDO\\Orlando\\Orlando\\Orlando.csproj",
         "projectName": "Orlando",
-        "projectPath": "C:\\Users\\eccec\\OneDrive\\Desktop\\Westminster\\Year 1\\Orlando\\Orlando\\Orlando.csproj",
+        "projectPath": "C:\\Users\\eccec\\OneDrive\\Desktop\\ORLANDO\\Orlando\\Orlando\\Orlando.csproj",
         "packagesPath": "C:\\Users\\eccec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eccec\\OneDrive\\Desktop\\Westminster\\Year 1\\Orlando\\Orlando\\obj\\",
+        "outputPath": "C:\\Users\\eccec\\OneDrive\\Desktop\\ORLANDO\\Orlando\\Orlando\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -46,10 +46,6 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Comora": {
-              "target": "Package",
-              "version": "[0.5.0, )"
-            },
             "MonoGame.Content.Builder.Task": {
               "target": "Package",
               "version": "[3.8.0.1641, )"

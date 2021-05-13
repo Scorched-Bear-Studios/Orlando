@@ -5,7 +5,7 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace Orlando  
+namespace Orlando
 {
     class Player
     {
@@ -14,7 +14,7 @@ namespace Orlando
         private Dir direction = Dir.Down;
         private bool isMoving = false;
         private KeyboardState kStateOld = Keyboard.GetState();
-        
+
 
 
         public SpriteAnimation anim;
@@ -32,7 +32,7 @@ namespace Orlando
             }
         }
 
-        
+
 
         public void setX(float newX)
         {
@@ -52,7 +52,7 @@ namespace Orlando
 
 
 
-             
+
             isMoving = false;
 
             if (kState.IsKeyDown(Keys.Right))
@@ -84,19 +84,19 @@ namespace Orlando
                 switch (direction)
                 {
                     case Dir.Right:
-                        if (position.X < 1280)
+                        if (position.X < 1240)
                             position.X += speed * dt;
                         break;
                     case Dir.Left:
-                        if (position.X > -1000) //this
+                        if (position.X > 100) //this
                             position.X -= speed * dt;
                         break;
                     case Dir.Down:
-                        if (position.Y < 1250)
+                        if (position.Y < 900)
                             position.Y += speed * dt;
                         break;
                     case Dir.Up:
-                        if (position.Y > -1000) // this
+                        if (position.Y > 100) // this
                             position.Y -= speed * dt;
                         break;
                 }
@@ -119,7 +119,7 @@ namespace Orlando
             }
 
 
-           
+
             anim.Position = new Vector2(position.X - 50, position.Y - 50);
 
             if (kState.IsKeyDown(Keys.Space))
@@ -129,8 +129,8 @@ namespace Orlando
             else
                 anim.setFrame(1);
 
-           if (kState.IsKeyDown(Keys.Space) && kStateOld.IsKeyUp(Keys.Space))
-               Arrow.arrows.Add(new Arrow(position, direction));
+            if (kState.IsKeyDown(Keys.Space) && kStateOld.IsKeyUp(Keys.Space))
+                Arrow.arrows.Add(new Arrow(position, direction));
 
             kStateOld = kState;
 

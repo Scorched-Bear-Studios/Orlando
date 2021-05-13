@@ -8,9 +8,9 @@ using Microsoft.Xna.Framework.Input;
 
 namespace Orlando
 {
-    class TileMapManager
+    class TileMapManager //for when you upload tilemap 
     {
-
+        /*
         private SpriteBatch spriteBatch;
         TmxMap map;
         Texture2D tileset;
@@ -31,14 +31,8 @@ namespace Orlando
 
         public void Draw(Matrix matrix)
         {
-            spriteBatch.Begin(//All of these need to be here :(
-                SpriteSortMode.Deferred,
-                samplerState: SamplerState.PointClamp,
-                effect: null,
-                blendState: null,
-                rasterizerState: null,
-                depthStencilState: null,
-                transformMatrix: matrix/*<-This is the main thing*/);
+            spriteBatch.Begin( SpriteSortMode.Deferred,
+                samplerState: SamplerState.PointClamp, effect: null, blendState: null,rasterizerState: null,depthStencilState: null,transformMatrix: matrix);
             for (var i = 0; i < map.TileLayers.Count; i++)
             {
                 for (var j = 0; j < map.TileLayers[i].Tiles.Count; j++)
@@ -61,6 +55,6 @@ namespace Orlando
                 }
             }
             spriteBatch.End();
-        }
+        }*/
     }
 }
