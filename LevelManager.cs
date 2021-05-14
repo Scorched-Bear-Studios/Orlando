@@ -5,7 +5,8 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace Orlando
+namespace Orlando // switching between levels
+
 {
     class LevelManager
     {

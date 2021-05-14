@@ -44,3 +44,15 @@ C:\Users\eccec\OneDrive\Desktop\ORLANDO\Orlando\Orlando\obj\Debug\netcoreapp3.1\
 C:\Users\eccec\OneDrive\Desktop\ORLANDO\Orlando\Orlando\bin\Debug\netcoreapp3.1\Content\Enemy\skeleton.xnb
 C:\Users\eccec\OneDrive\Desktop\ORLANDO\Orlando\Orlando\bin\Debug\netcoreapp3.1\Content\Assets\levelone.xnb
 C:\Users\eccec\OneDrive\Desktop\ORLANDO\Orlando\Orlando\bin\Debug\netcoreapp3.1\Content\Player\owlakd.xnb
+C:\Users\eccec\OneDrive\Desktop\ORLANDO\Orlando\Orlando\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\eccec\OneDrive\Desktop\ORLANDO\Orlando\Orlando\bin\Debug\netcoreapp3.1\MonoGame.Extended.dll
+C:\Users\eccec\OneDrive\Desktop\ORLANDO\Orlando\Orlando\bin\Debug\netcoreapp3.1\MonoGame.Extended.Graphics.dll
+C:\Users\eccec\OneDrive\Desktop\ORLANDO\Orlando\Orlando\bin\Debug\netcoreapp3.1\MonoGame.Extended.Tiled.dll
+C:\Users\eccec\OneDrive\Desktop\ORLANDO\Orlando\Orlando\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\eccec\OneDrive\Desktop\ORLANDO\Orlando\Orlando\bin\Debug\netcoreapp3.1\Content\Assets\Dungeon Tileset.xnb
+C:\Users\eccec\OneDrive\Desktop\ORLANDO\Orlando\Orlando\bin\Debug\netcoreapp3.1\Content\Assets\map.xnb
+C:\Users\eccec\OneDrive\Desktop\ORLANDO\Orlando\Orlando\bin\Debug\netcoreapp3.1\Content\Assets\tileset.xnb
+C:\Users\eccec\OneDrive\Desktop\ORLANDO\Orlando\Orlando\bin\Debug\netcoreapp3.1\Content\Assets\Dungeon Tileset_0.xnb
+C:\Users\eccec\OneDrive\Desktop\ORLANDO\Orlando\Orlando\bin\Debug\netcoreapp3.1\Content\Player\healthbar.xnb
+C:\Users\eccec\OneDrive\Desktop\ORLANDO\Orlando\Orlando\bin\Debug\netcoreapp3.1\Content\Player\healthbarcontainer.xnb
+C:\Users\eccec\OneDrive\Desktop\ORLANDO\Orlando\Orlando\bin\Debug\netcoreapp3.1\Content\Player\healthbar_32x96.xnb

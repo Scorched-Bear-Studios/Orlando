@@ -10,8 +10,21 @@
 
 #-------------------------------- References --------------------------------#
 
+/reference:..\..\..\..\..\..\.nuget\packages\monogame.extended.content.pipeline\3.8.0\tools\MonoGame.Extended.Content.Pipeline.dll
 
 #---------------------------------- Content ---------------------------------#
+
+#begin Assets/Dungeon Tileset.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Assets/Dungeon Tileset.png
 
 #begin Assets/levelone.png
 /importer:TextureImporter
@@ -24,6 +37,16 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:Assets/levelone.png
+
+#begin Assets/map.tmx
+/importer:TiledMapImporter
+/processor:TiledMapProcessor
+/build:Assets/map.tmx
+
+#begin Assets/tileset.tsx
+/importer:TiledMapTilesetImporter
+/processor:TiledMapTilesetProcessor
+/build:Assets/tileset.tsx
 
 #begin Enemy/skeleton.png
 /importer:TextureImporter
@@ -60,6 +83,42 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:Player/arrow2.png
+
+#begin Player/healthbar.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Player/healthbar.png
+
+#begin Player/healthbar_32x96.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Player/healthbar_32x96.png
+
+#begin Player/healthbarcontainer.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Player/healthbarcontainer.png
 
 #begin Player/owalkl.png
 /importer:TextureImporter

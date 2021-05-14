@@ -4,16 +4,28 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
+    <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Assets/Dungeon Tileset.png</File>
     <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Assets/levelone.png</File>
+    <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Assets/map.tmx</File>
+    <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Assets/tileset.tsx</File>
     <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Enemy/skeleton.png</File>
     <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Player/arrow.png</File>
     <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Player/arrow2.png</File>
+    <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Player/healthbar.png</File>
+    <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Player/healthbar_32x96.png</File>
+    <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Player/healthbarcontainer.png</File>
     <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Player/owalkl.png</File>
     <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Player/owalkr.png</File>
     <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Player/owalku.png</File>
     <File>C:/Users/eccec/OneDrive/Desktop/ORLANDO/Orlando/Orlando/Content/Player/owlakd.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
